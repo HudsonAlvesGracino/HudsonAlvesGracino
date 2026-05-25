@@ -1,4 +1,3 @@
-## Hi there 👋
 # Olá, eu sou o Hudson! 👋
 
 Estudante de desenvolvimento de software apaixonado por tecnologia e em constante aprendizado. Atualmente focado em **Back-end** e **Front-end**, construindo projetos do zero pra colocar em prática o que aprendo.
