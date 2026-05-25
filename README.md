@@ -1,6 +1,6 @@
 # Olá, eu sou o Hudson! 👋
 
-Estudante de desenvolvimento de software apaixonado por tecnologia e em constante aprendizado. Atualmente focado em **Back-end** e **Front-end**, construindo projetos do zero pra colocar em prática o que aprendo.
+Estudante de análise e desenvolvimento de sistemas apaixonado por tecnologia e em constante aprendizado. Atualmente focado em **Back-end** e **Front-end**, construindo projetos do zero pra colocar em prática o que aprendo.
 
 ---
 
@@ -26,12 +26,6 @@ Permite adicionar, listar, concluir e salvar tarefas em arquivo `.txt` com persi
 
 ---
 
-## 📈 GitHub Stats
-
-![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HudsonAlvesGracino&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonAlvesGracino&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌱 Sobre mim
 
